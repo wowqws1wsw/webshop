@@ -354,9 +354,11 @@ footer .credits a {
     }
 
     .about .row .about-img img {
-        height: 24rem;
-       object-fit: cover;
+        width: 250px;
+        display: flex;
+        margin: auto;
        object-position: center;
+       
     }
 
     .about .row .content {
